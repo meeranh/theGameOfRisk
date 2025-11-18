@@ -21,8 +21,8 @@
   // Settings
   let showSettings = false;
   let winMultiplier = 100; // $1 for 0.01 lot size
-  let lossMultiplier = 1000; // $10 for 0.01 lot size
-  let prizePercentage = 90; // 90% prizes, 10% bombs
+  let lossMultiplier = 500; // $10 for 0.01 lot size
+  let prizePercentage = 83; // 90% prizes, 10% bombs
   let maxLeverage = 2000; // Maximum leverage allowed
   const LOT_VALUE = 100000; // 1 lot = $100,000
 
