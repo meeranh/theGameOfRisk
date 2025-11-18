@@ -4,7 +4,7 @@
   // Game state - Load from localStorage or use defaults
   let balance = 200;
   let initialBalance = 200;
-  let targetGoal = 100000;
+  let targetGoal = 1000;
   let isEditingTarget = false;
   let isEditingBalance = false;
   let targetInput = targetGoal;
